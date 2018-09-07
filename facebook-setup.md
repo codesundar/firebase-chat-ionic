@@ -13,6 +13,10 @@ Navigate to ``config.xml`` and update your app details
 
 ![updating config]( https://github.com/codesundar/firebase-chat-ionic/blob/master/img/config-file.png "updating config")
 
+Navigate to ``package.json`` and update your own credentials
+
+![updating package json]( https://github.com/codesundar/firebase-chat-ionic/blob/master/img/package.png "updating package json")
+
 ## Step 2: Updating credentials
 
 Once, you have completed these, we need have,
@@ -26,8 +30,11 @@ After following these steps, you need to update your
 
     project/config.xml
     project/src/settings.ts
+    project/package.json
 
 ![updating config 2]( https://github.com/codesundar/firebase-chat-ionic/blob/master/img/config-file-2.png "updating config 2")
+
+![updating package json]( https://github.com/codesundar/firebase-chat-ionic/blob/master/img/fbauth-package.png "updating package json")
 
 
 ## Step 3: Enabling Facebook login on Firebase

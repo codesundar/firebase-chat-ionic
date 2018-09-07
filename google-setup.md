@@ -14,7 +14,10 @@ This article, we're going to setup Google+ authentication.
 
 ## Step 2: Updating Config files
 
-- Open your ``project/src/settings.ts`` update your credentials
-- Open your config.xml and update your key in **REVERSE**
+- Open your ``project/src/settings.ts`` update your **webClientId**
+- Open your config.xml and update your key in **REVERSE webClientID**
+- ``project/package.json`` with **REVERSE webClientID**
 
 ![reverse client id]( https://github.com/codesundar/firebase-chat-ionic/blob/master/img/gauth3.png "reverse client id")
+
+![gauth package]( https://github.com/codesundar/firebase-chat-ionic/blob/master/img/gauth-package.png "gauth package")

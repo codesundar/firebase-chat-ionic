@@ -49,7 +49,3 @@ Navigate to firebase cloud storage rules & update rules as follows
 ![update storage rule]( https://github.com/codesundar/firebase-chat-ionic/blob/master/img/update-storage-rules.png "update storage rules")
 
 **Note:** Here we haven't added any high security rule for testing purpose. later you can modify this as per your security concern.
-
-### Update Config File
-
-Now, you need to update your
