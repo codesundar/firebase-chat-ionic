@@ -8,6 +8,12 @@ Navigate to https://firebase.google.com/ & login with your google account, then 
 
 ![create new project]( https://github.com/codesundar/firebase-chat-ionic/blob/master/img/new-firebase-project.png "create new project")
 
+### Updating Credentials
+
+Choose web, now you can see popup, copy credentails and update your ``project/src/settings.ts``
+
+![enable email login]( https://github.com/codesundar/firebase-chat-ionic/blob/master/img/firebase-web-cred.png "enable email login")
+
 
 ### Enable Email Login
 
@@ -43,3 +49,7 @@ Navigate to firebase cloud storage rules & update rules as follows
 ![update storage rule]( https://github.com/codesundar/firebase-chat-ionic/blob/master/img/update-storage-rules.png "update storage rules")
 
 **Note:** Here we haven't added any high security rule for testing purpose. later you can modify this as per your security concern.
+
+### Update Config File
+
+Now, you need to update your
