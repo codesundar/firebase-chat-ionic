@@ -9,12 +9,11 @@ This is an official documentation for https://codesundar.com/downloads/ionic-fir
 
 ## Let's start
 
-  - Setting up Firebase
-  - Facebook Login Setup
-  - Facebook AccountKit Setup
-  - Google+ Setup
-  - Push Notification Setup
-  - Deploying FCF
+  - [Setting up Firebase](https://github.com/codesundar/firebase-chat-ionic/blob/master/firebase-setup.md)
+  - [Facebook Login & Account Kit Setup](https://github.com/codesundar/firebase-chat-ionic/blob/master/facebook-setup.md)
+  - [Google+ Setup](https://github.com/codesundar/firebase-chat-ionic/blob/master/google-setup.md)
+  - [Push Notification Setup](https://github.com/codesundar/firebase-chat-ionic/blob/master/fcm-setup.md)
+  - [Deploying FCF](https://github.com/codesundar/firebase-chat-ionic/blob/master/deploying-fcf.md)
 
 ### Dev Environment
 
