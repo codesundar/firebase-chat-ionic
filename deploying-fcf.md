@@ -46,6 +46,6 @@ After installation, we need to replace newly generated index.js file with downlo
 
 **Note:** You must be inside fcf/ (not inside fcf/functions) folder for deploying.
 
-### Step 5: Updating CustomAuth URL
+### Step 5: Updating customToken URL
 
-After deployment, you can see CustomTokeURL on console, which you need to update with your ``project/src/settings.ts``
+After deployment, you can see CustomTokenURL on console, which you need to update with your ``project/src/settings.ts``
