@@ -35,7 +35,7 @@ Then, we need to follow these steps,
 ### Step 3: Updating Files
 After installation, we need to replace newly generated index.js file with downloaded index.js;
 
-![updating service account]( https://github.com/codesundar/firebase-chat-ionic/blob/master/img/gauth3.png "updating service account")
+![updating service account]( https://github.com/codesundar/firebase-chat-ionic/blob/master/img/service-account-key.png "updating service account")
 
 - Rename downloaded files to ``service-account-key.json``
 - Copy your ``service-account-key.json`` to ``fcf/functions/``
