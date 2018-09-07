@@ -48,4 +48,4 @@ After installation, we need to replace newly generated index.js file with downlo
 
 ### Step 5: Updating CustomAuth URL
 
-After deployment, you can see URL on console, which you need to update with your ``project/src/settings.ts``
+After deployment, you can see CustomTokeURL on console, which you need to update with your ``project/src/settings.ts``
