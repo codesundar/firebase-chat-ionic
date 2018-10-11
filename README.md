@@ -7,7 +7,7 @@ This is an official documentation for https://codesundar.com/downloads/ionic-fir
 - Please follow every steps without missing
 - Don't change order of setup to avoid confusion.
 
-### Dev Environment (!important)
+### Dev Environment (! very important)
 
     Node: 9.5.0
     Npm: 5.6.0
@@ -18,6 +18,9 @@ This is an official documentation for https://codesundar.com/downloads/ionic-fir
     AngularFire: 5.0.0-rc.4
     Firebase: 4.8.0
     ionic/app-script: 3.1.6
+
+Download node from https://nodejs.org/en/download/releases/ then
+`npm install -g npm@5.6.0`
 
 ## Quick Setup
 After downloading your source code extract your .zip & follow these steps
