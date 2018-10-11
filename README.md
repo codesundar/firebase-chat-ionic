@@ -35,7 +35,7 @@ After downloading your source code extract your .zip & follow these steps
   - [Step 5: Deploying FCF](https://github.com/codesundar/firebase-chat-ionic/blob/master/deploying-fcf.md)
 
 ### Support
-- If you're facing any issue, feel free to contact **me@codesundar.com** .
+- If you're facing any issue, feel free to contact https://codesundar.com/contact-us/
 - (optional) If you don't have time to setup? we provide setup solution for ``20USD / hour``
 
 ### Other Useful Links
