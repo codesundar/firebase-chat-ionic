@@ -19,6 +19,13 @@ This is an official documentation for https://codesundar.com/downloads/ionic-fir
     Firebase: 4.8.0
     ionic/app-script: 3.1.6
 
+## Quick Setup
+After downloading your source code extract your .zip & follow these steps
+
+    cd firechat
+    npm install
+    ionic serve
+    
 ## Let's start
 
   - [Step 1: Setting up Firebase](https://github.com/codesundar/firebase-chat-ionic/blob/master/firebase-setup.md)
