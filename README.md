@@ -6,6 +6,7 @@ This is an official documentation for https://codesundar.com/downloads/ionic-fir
 
 - Please follow every steps without missing
 - Don't change order of setup to avoid confusion.
+- You must use dev environment version as mentioned here
 
 ### Dev Environment (! very important)
 
@@ -19,8 +20,20 @@ This is an official documentation for https://codesundar.com/downloads/ionic-fir
     Firebase: 4.8.0
     ionic/app-script: 3.1.6
 
-Download node from https://nodejs.org/en/download/releases/ then
-`npm install -g npm@5.6.0`
+### How to check?
+In order to check your installed version, please execute following commands
+
+    npm -v
+    node -v
+    ionic --version
+    cordova --version
+
+### How to install exact version ?
+- Download node from https://nodejs.org/en/download/releases/ then install
+- open your terminal & run
+    - For NPM: `npm install -g npm@5.6.0`
+    - For Ionic: `npm install -g ionic@3.19.0`
+    - For cordova: `npm install -g cordova@8.0.0`
 
 ## Quick Setup
 After downloading your source code extract your .zip & follow these steps
@@ -37,10 +50,17 @@ After downloading your source code extract your .zip & follow these steps
   - [Step 4: Push Notification Setup](https://github.com/codesundar/firebase-chat-ionic/blob/master/fcm-setup.md)
   - [Step 5: Deploying FCF](https://github.com/codesundar/firebase-chat-ionic/blob/master/deploying-fcf.md)
 
-### Support
-- If you're facing any issue, feel free to contact https://codesundar.com/contact-us/
-- (optional) If you don't have time to setup? we provide setup solution for ``20USD / hour``
 
 ### Other Useful Links
 - https://codesundar.com/ionic-cordova-environment-setup-for-windows-mac/
 - https://codesundar.com/publish-cordova-apps-to-playstore/
+
+### Free Support
+- Facing an issue?
+- Is that not working as expected?
+- No worries, I'm here to help you for free. feel free to contact https://codesundar.com/contact-us/
+
+### Paid Support (optional)
+- Don't have time for setup?
+- Don't have technical knowledge?
+- No worries, we offer paid support for `20USD/Hr`
