@@ -42,6 +42,7 @@ After installation, we need to **replace** newly created index.js file with down
 
 - Rename downloaded files to `service-account-key.json`
 - Copy your `service-account-key.json` to `fcf/functions/`
+- Open `fcf/functions/index.js` with any text editor & Update your databaseURL
 
 ### Step 5: Deploying FCF
     cd ..
