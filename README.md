@@ -1,6 +1,6 @@
 # ionic Firebase Chat
 
-This is an official documentation for https://codesundar.com/downloads/ionic-firebase-chat/. 
+This is an official documentation for https://mythemebox.com/template/ionic-chat-app/
 
 ### Before starting
 
@@ -44,11 +44,11 @@ After downloading your source code extract your .zip & follow these steps
     
 ## Let's start
 
-  - [Step 1: Setting up Firebase](https://github.com/codesundar/firebase-chat-ionic/blob/master/firebase-setup.md)
-  - [Step 2: Facebook Login & Account Kit Setup](https://github.com/codesundar/firebase-chat-ionic/blob/master/facebook-setup.md)
-  - [Step 3: Google+ Setup](https://github.com/codesundar/firebase-chat-ionic/blob/master/google-setup.md)
-  - [Step 4: Push Notification Setup](https://github.com/codesundar/firebase-chat-ionic/blob/master/fcm-setup.md)
-  - [Step 5: Deploying FCF](https://github.com/codesundar/firebase-chat-ionic/blob/master/deploying-fcf.md)
+  - [Step 1: Setting up Firebase](https://github.com/mythemebox/firebase-chat-ionic/blob/master/firebase-setup.md)
+  - [Step 2: Facebook Login & Account Kit Setup](https://github.com/mythemebox/firebase-chat-ionic/blob/master/facebook-setup.md)
+  - [Step 3: Google+ Setup](https://github.com/mythemebox/firebase-chat-ionic/blob/master/google-setup.md)
+  - [Step 4: Push Notification Setup](https://github.com/mythemebox/firebase-chat-ionic/blob/master/fcm-setup.md)
+  - [Step 5: Deploying FCF](https://github.com/mythemebox/firebase-chat-ionic/blob/master/deploying-fcf.md)
 
 
 ### Other Useful Links
@@ -58,7 +58,7 @@ After downloading your source code extract your .zip & follow these steps
 ### Free Support
 - Facing an issue?
 - Is that not working as expected?
-- No worries, I'm here to help you for free. feel free to contact https://codesundar.com/contact-us/
+- No worries, I'm here to help you for free. feel free to contact https://mythemebox.com/contact
 
 ### Paid Support (optional)
 - Don't have time for setup?
